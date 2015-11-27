@@ -32,3 +32,8 @@ background: #A4A4A4;
 .lis_in {
 	list-style: none;
 }
+
+
+footer {
+	border-top: 6px solid #424242;
+}
