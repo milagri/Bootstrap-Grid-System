@@ -6,7 +6,7 @@
 list-style: none;
 color: black;
 border: none;
-padding: 2%;
+padding:2% ;
 display: inline-block;
 }
 .noticia li a {
@@ -24,3 +24,11 @@ display: inline-block;
 .arti li:first-child 
 {
 border-left:none; }
+
+.contai_hv{
+background: #A4A4A4;
+}
+
+.lis_in {
+	list-style: none;
+}
