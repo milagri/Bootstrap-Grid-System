@@ -32,8 +32,37 @@ background: #A4A4A4;
 .lis_in {
 	list-style: none;
 }
+/*derecha*/
+.sub_tit {
+	color: white;
+	background: #585858;
+	padding: 2%;
+	width: 48%;
+}
+/*cntro*/
+.fecha {
+	background-color:#BDBDBD;
+	width:100%; 
+	height:100%;
+	padding: 2%;
+	font-size: 150%;
+	text-align: center; 
+}
+
+
+/*izquierda*/
+.contai_iz{
+	background: #BDBDBD;
+}
 
 
 footer {
 	border-top: 6px solid #424242;
+
+}
+
+footer ul li{
+	padding: 3%;
+	border-top: 2%;
+
 }
