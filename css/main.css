@@ -1,0 +1,26 @@
+.men {
+	padding: 2%;
+	text-decoration: none;
+}
+.noticia li  {
+list-style: none;
+color: black;
+border: none;
+padding: 2%;
+display: inline-block;
+}
+.noticia li a {
+	color: black;
+}
+.noticia li .en {
+	text-decoration:underline;
+}
+.arti li {
+	list-style: none;
+	display: inline-block;
+	border-left: 1px solid black;
+	padding: 1%;
+}
+.arti li:first-child 
+{
+border-left:none; }
