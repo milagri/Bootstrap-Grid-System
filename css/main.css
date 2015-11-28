@@ -5,7 +5,7 @@
 	display:none;
 }
 
-@media screen and (max-width:800px ) {
+@media screen and (max-width:768px ) {
 	header  .menu_ {
 		width:40%;
 		height:100%;
@@ -54,8 +54,14 @@
 	}
 	
 }
+@media screen and (max-width:800px ) {
+.mas_in {
+	display: none;
+	right :-100%;
+	position: fixed;
+}
 
-
+}
 
 
 .men {
